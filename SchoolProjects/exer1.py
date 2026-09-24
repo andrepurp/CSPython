@@ -1,4 +1,4 @@
-from logsfile import logs
+from SchoolProjects.logsfile import logs
 
 
 def imprimir_logs():

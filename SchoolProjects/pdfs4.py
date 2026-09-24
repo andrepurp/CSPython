@@ -30,7 +30,7 @@ def criar_grafico(utilizadores):
     plt.xlabel('Utilizadores')
     plt.ylabel('Número de tentativas')
     plt.xticks(rotation=45)  # Rotaciona os nomes dos utilizadores para melhor visualização.
-    plt.savefig('grafico.png')  # Salva o gráfico como uma imagem PNG.´
+    plt.savefig('grafico.png')  # Salva o gráfico como uma imagem PNG.
     plt.close()  # Fecha o gráfico para liberar memória.
 
 utilizadores = []  # Cria uma lista vazia para guardar os nomes dos utilizadores.

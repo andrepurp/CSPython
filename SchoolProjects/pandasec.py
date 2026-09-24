@@ -11,3 +11,4 @@ df = pd.DataFrame(dados)
 print(df.iloc[0:5])
 
 print(len(df))
+
