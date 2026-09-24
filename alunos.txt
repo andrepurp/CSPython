@@ -1,0 +1,16 @@
+Nome;Idade;Curso
+Ana;20;CTESP
+Carlos;22;TESP
+Sandra;21;CTESP
+João;19;EFA
+Maria;23;CTESP
+Pedro;24;TESP
+Sofia;20;CTESP
+Ricardo;25;EFA
+Inês;22;TESP
+Miguel;21;CTESP
+Rita;19;EFA
+Bruno;23;TESP
+Carla;24;GPSI
+Tiago;20;EFA
+Beatriz;22;EFA
